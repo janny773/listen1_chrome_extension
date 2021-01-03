@@ -43,8 +43,7 @@
         "*://github.com/*",
         "*://gist.githubusercontent.com/*",
         "webRequest",
-        "webRequestBlocking",
-        "tabs"
+        "webRequestBlocking"
     ],
     "version": "2.17.8",
     "web_accessible_resources": [
